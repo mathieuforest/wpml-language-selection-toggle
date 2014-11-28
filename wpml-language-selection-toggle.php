@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: WPML language selector toggle
+ * Plugin Name: WPML language selector toggle test
  * Version: 1.0
  * Plugin URI: http://mathieuforest.ca/
  * Description: This was develop for custom needs.
